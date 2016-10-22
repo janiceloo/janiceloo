@@ -7,9 +7,9 @@
 
 # Site settings
 title-bold: JLOO
-title-normal: by HTML5 UP
+title-normal: by JIMBOT
 email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+description: A responsive site template designed by JIMBOT Up<br /> and released under the CGC.
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "https://andrewbanchich.gitlab.io" # the base hostname & protocol for your site
 author:
