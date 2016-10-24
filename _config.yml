@@ -10,7 +10,7 @@ title-bold: JLOO
 title-normal: by JIMBOT
 email:
 description: Musings of a Loobird<br /> Rendered by Mr Jimbot.
-baseurl: "/janice" # the subpath of your site, e.g. /blog
+baseurl: # the subpath of your site, e.g. /blog
 url: "https://janiceloo.github.io" # the base hostname & protocol for your site
 author: "Janice Loo"
 street_address: 1234 Somewhere Road
