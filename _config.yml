@@ -7,15 +7,15 @@
 
 # Site settings
 title-bold: JLOO
-title-normal: by HTML5 UP
-email: janicious.jloo@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+title-normal: by JIMBOT
+email: 
+description: Musings of a Loobird<br /> Rendered by Mr Jimbot.
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "https://andrewbanchich.gitlab.io" # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
+city: NY
+state: NY
 zip_code: 55555
 country: United States of America
 phone: (716) 555-5555
